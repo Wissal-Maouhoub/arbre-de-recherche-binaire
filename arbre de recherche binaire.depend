@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1793188562 source:c:\users\hp\desktop\bouziri\arbre de recherche binaire\main.cpp
+	<iostream>
+	<chrono>
+	<iostream>
+	<map>
+	<chrono>
+	<iostream>
+	<map>
+	<chrono>
+	<vector>
+	<algorithm>
+	<random>
+
